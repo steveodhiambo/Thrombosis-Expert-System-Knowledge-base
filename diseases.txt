@@ -1,0 +1,13 @@
+PulmonaryEmbolism
+DeepVein
+FemoralVein
+Paget-SchroetterSyndrome
+MyocardialInfarction(Heart Attack)
+SuperiorVenaCava
+JugularVein
+Stroke
+CerebralVenousSinus
+CavernousSinus
+RetinalVeinOcclusion
+PortalVein
+RenalVein

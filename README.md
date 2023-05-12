@@ -1,7 +1,7 @@
 
 Thrombosis-Expert-System-Knowledge-Base
 ====================================================
-Using expert system shells for the development of Expert systems. These shells are empty Expert System knowledge bases, which have the structure and interface already written for us; all we need to do is to add the knowledge into the KB. Instead of writing an Expert System from scratch, for this problem we will be using a small Expert System shell to design and implement an expert system. We used PyKnow Framework for building the concerned expert system.
+An expert system developed with PyKnow, aimed at providing insightful, reliable analysis for thrombosis diagnosis and treatment. Leveraging the power of rule-based systems, this project translates complex medical data into actionable healthcare advice, assisting healthcare professionals in making informed decisions. This system is not only intended to enhance patient care but also to promote knowledge sharing and continuous learning within the medical community.
 
 Package Used
 --------------
